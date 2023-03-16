@@ -56,17 +56,59 @@
             "posterindex": 0
       },
       {
-            "title": "Schindler's List",
-            "iscore": 8.9,
-            "rating": "R",
-            "runtime": 195,
-            "released": [1993, 11, 30],
-            "country": "USA",
-            "posters": ["img/schindlerslist.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0108052",
-            "website": "https://www.uphe.com/schindlers-list",
-            "likes": 812,
-            "dislikes": 101,
-            "posterindex": 0
-      }
+        "title": "Schindler's List",
+        "iscore": 8.9,
+        "rating": "R",
+        "runtime": 195,
+        "released": [1993, 11, 30],
+        "country": "USA",
+        "posters": ["img/schindlerslist.jpg"],
+        "imdb": "http://www.imdb.com/title/tt0108052",
+        "website": "https://www.uphe.com/schindlers-list",
+        "likes": 812,
+        "dislikes": 101,
+        "posterindex": 0
+      },
+      {
+        "title": "Creed III",
+        "iscore": 7.3,
+        "rating": "R",
+        "runtime": 116,
+        "released": [2023, 3, 1],
+        "country": "USA",
+        "posters": ["img/dd.jpg", "img/download2.jpg", "img/vc.jpg"],
+        "imdb": "https://www.imdb.com/title/tt11145118/?ref_=nv_sr_srsg_1",
+        "website": "https://en.wikipedia.org/wiki/Creed_III",
+        "likes": 874,
+        "dislikes": 24,
+        "posterindex": 0
+      },
+           {
+             "title": "Forest Gump",
+             "iscore": 8.8,
+             "rating": "PG-13",
+             "runtime": 195,
+             "released": [1994, 7, 6],
+             "country": "USA",
+             "posters": ["img/gump1.jpg", "img/gump2.jpg", "img/gump3.jpg"],
+             "imdb": "https://www.imdb.com/title/tt0109830/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=Y508SMKN76K0P62EMX5Y&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_11",
+             "website": "https://en.wikipedia.org/wiki/Forrest_Gump",
+             "likes": 642,
+             "dislikes": 94,
+             "posterindex": 0
+           },
+                   {
+             "title": "Super Mario",
+             "iscore": 9.2,
+             "rating": "PG",
+             "runtime": 195,
+             "released": [2023, 4, 5],
+             "country": "USA",
+             "posters": ["img/marioo1.jpg", "img/mario2.jpg", "img/mario13.jpg"],
+             "imdb": "https://m.imdb.com/title/tt6718170/?ref_=nv_sr_srsg_1",
+             "website": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie",
+             "likes": 92,
+            "dislikes": 4,
+             "posterindex": 0
+           }
 ]
